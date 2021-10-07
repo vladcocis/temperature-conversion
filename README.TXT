@@ -1,12 +1,9 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
+This program requires BlueJ
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Instructions:
+
+1. Run package.bluej
+2. Compile project
+3. Create new instance of temperature conversion UI
+4. Run menu method from temperature conversion instance
+5. Press 1 for F to C conversion; 2 for C to F conversion; 3 to close application
