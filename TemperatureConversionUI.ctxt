@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TemperatureConversionUI
+comment0.text=\r\n\ Converts\ retard\ units\ into\ normal\ units\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=TemperatureConversionUI()
+comment2.params=
+comment2.target=int\ getCommand()
+comment3.params=
+comment3.target=void\ displayMenu()
+comment4.params=
+comment4.target=void\ doFToC()
+comment5.params=
+comment5.target=void\ doCToF()
+comment6.params=command
+comment6.target=void\ execute(int)
+comment7.params=
+comment7.target=void\ menu()
+numComments=8

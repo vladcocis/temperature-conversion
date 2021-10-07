@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=RectangleTUI
+comment0.text=\r\n\ Template\ for\ menu\ based\ Text\ user\ interfaces\ .\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=RectangleTUI()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TextTU\r\n
+comment10.params=
+comment10.target=void\ displayArea()
+comment11.params=
+comment11.target=void\ displayPerimeter()
+comment2.params=
+comment2.target=void\ menu()
+comment3.params=
+comment3.target=void\ displayMenu()
+comment4.params=
+comment4.target=int\ getCommand()
+comment5.params=command
+comment5.target=void\ execute(int)
+comment6.params=
+comment6.target=void\ createRectangle()
+comment7.params=prompt
+comment7.target=int\ readIntWithPrompt(java.lang.String)
+comment8.params=
+comment8.target=void\ displayLength()
+comment9.params=
+comment9.target=void\ displayBreadth()
+numComments=12

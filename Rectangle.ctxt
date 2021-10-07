@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment0.text=\r\n\ A\ simple\ class\ representing\ a\ rectangle.\r\n\ This\ class\ has\ been\ amended\ to\ include\ a\r\n\ method\ to\ calculate\ a\ perimeter\ for\ the\r\n\ week\ 8\ lectoral\ class\r\n\ \r\n\ @author\ \r\n\ @version\ \r\n
+comment1.params=length\ breadth
+comment1.target=Rectangle(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rectangle.\r\n
+comment2.params=
+comment2.target=int\ getLength()
+comment2.text=\r\n\ obtains\ the\ current\ value\ of\ length.\r\n\r\n\ @return\ \ \ \ \ the\ length\r\n
+comment3.params=
+comment3.target=int\ getBreadth()
+comment3.text=\r\n\ obtains\ the\ current\ value\ of\ breadth.\r\n\r\n\ @return\ \ \ \ \ the\ breadth\r\n
+comment4.params=
+comment4.target=int\ calculateArea()
+comment4.text=\r\n\ Calculates\ the\ area\ of\ the\ rectangle.\r\n\r\n\ @return\ \ \ \ \ the\ area\ of\ the\ rectangle\r\n
+comment5.params=
+comment5.target=int\ calculatePerimeter()
+comment5.text=\r\n\ Calculate\ perimeter\r\n\ \r\n\ @return\ the\ perimeter\ of\ the\ rectangle\r\n
+numComments=6
